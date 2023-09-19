@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Linear+B&display=swap');
 * {
     box-sizing: border-box;
   }
@@ -129,4 +130,29 @@ img{
 #atop{
   text-decoration: none;
 
+}
+.progress-bars{
+  height: 100%;
+  width: 300px;
+}
+.progress-bars h2{
+  font-family: 'Noto Sans Linear B', sans-serif;
+font-family: 'Oswald', sans-serif;
+margin: 10px;
+}
+.lijst li a{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  background-color: white;
+  color: black;
+  font-size: 16px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-right: 5px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
 }
